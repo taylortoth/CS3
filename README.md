@@ -44,20 +44,21 @@ CS3/
 │   │     ├── bechdel_movies_combined.csv
 │   │     └── bechdel_movies_with_sentiment.csv
 │   └── Exploratory/
-│       ├── DistributionofBechdelRatings.png
-│       ├── DistributionofSentimentScores.png
-│       ├── MoviesThatPassBechdel.png
-│       ├── PairPlotYearSentimentRating.png
-│       ├── PassOrFailBechdel.png
-│       └── YearvsSentimentScore.png
+│   │   ├── DistributionofBechdelRatings.png
+│   │   ├── DistributionofSentimentScores.png
+│   │   ├── MoviesThatPassBechdel.png
+│   │   ├── PairPlotYearSentimentRating.png
+│   │   ├── PassOrFailBechdel.png
+│   │   └── YearvsSentimentScore.png
+│   └── blog.pdf/
 │
 ├── LICENSE.md
 └── README.md
 ```
-- **HOOK&RIBRIC/**:
+- **HOOK&RUBRIC/**:
   - This is where you find the hook document that will give information on the context of the case study that is to go alongside this repository. The rubric you are to follow is here and should answer all questions on how to successfully replicate the given case study. 
 - **MATERIALS/**:
-  - The materials folder contains four subfolders: analysis plots, example code, data, and exploratory plots. These subfolders contain the different transformations the data will go through, the code to perform all the analysis, and examples of exploratory and final plots. Additional references will be listed at the bottom of the page.
+  - The materials folder contains four subfolders: analysis plots, example code, data, and exploratory plots. These subfolders contain the different transformations the data will go through, the code to perform all the analysis, and examples of exploratory and final plots. The blog document gives further detail into the project, background information to assist in evaluation, and useful websites. Additional references will be listed at the bottom of the page.
  
 ## Important Refernces
 
