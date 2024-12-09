@@ -13,7 +13,7 @@ The original coding was performed on a Windows machine, with some portions done 
 
 ### Project Folder Structure: 
 
-'''
+```
 CS3/
 │
 ├── HOOK&RUBRIC
@@ -54,3 +54,23 @@ CS3/
 ├── LICENSE.md
 └── README.md
 ```
+- **HOOK&RIBRIC/**:
+  - This is where you find the hook document that will give information on the context of the case study that is to go alongside this repository. The rubric you are to follow is here and should answer all questions on how to successfully replicate the given case study. 
+- **MATERIALS/**:
+  - The materials folder contains four subfolders: analysis plots, example code, data, and exploratory plots. These subfolders contain the different transformations the data will go through, the code to perform all the analysis, and examples of exploratory and final plots. Additional references will be listed at the bottom of the page.
+ 
+## Important Refernces
+
+[1] “vaderSentiment,” PyPI, Apr. 23, 2018. https://pypi.org/project/vaderSentiment/.
+
+[2] “Bechdel Test Movies,” kaggle.com.
+https://www.kaggle.com/datasets/treelunar/bechdel-test-movies-as-of-feb-28-2023
+
+[3] Shih, J. (2024, July 3).Interpreting the score and ratio of sentiment analysis. Twinword.
+https://www.twinword.com/blog/interpreting-the-score-and-ratio-ofsentiment/#:~:text=The%20score%20indicates%20how%20negative,inclusively%2C%20we%20tag%20as%20neutral
+
+[4] J. Light, “What Is the Bechdel Test and How Will It Help Your Writing?,” nofilmschool.com, 
+Jan. 25, 2024. https://nofilmschool.com/bechdel-test
+
+[5] “Bechdel Test Movie List” bechdeltest.com
+https://bechdeltest.com/
